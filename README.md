@@ -42,4 +42,8 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 
 Application of gas chromatography mass spectrometry (GC–MS) in conjunction with multivariate classification for the diagnosis of gastrointestinal diseases (Cauchi et al., 2014)
 
+## ⚠️ License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+See https://creativecommons.org/licenses/by-nc/4.0/ for details.
 
